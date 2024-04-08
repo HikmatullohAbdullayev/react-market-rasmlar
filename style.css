@@ -1,0 +1,8 @@
+.shoe_img{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.shoe{
+    padding: 20px;
+}
