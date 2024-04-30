@@ -6,3 +6,11 @@
 .shoe{
     padding: 20px;
 }
+.portfolio_img{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.portfolio{
+    padding: 20px;
+}
